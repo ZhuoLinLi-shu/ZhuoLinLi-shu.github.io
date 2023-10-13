@@ -40,20 +40,32 @@ My current research focuses on Deep learning, graph neural networks, attention m
 
 1. **Dynamic Graph Structure Learning for Multivariate Time Series Forecasting**
 
+   
+
    ***Zhuo Lin Li***, Gao Wei Zhang, Jie Yu, Ling Yu Xu. (First author) 
+
+   
 
    2023|Pattern Recognition|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001243), [code](https://github.com/ZhuoLinLi-shu/SDGL) 
 
-2.  **Dynamic spatio-temporal graph network with adaptive propagation mechanism for multivariate time series forecasting**
+2. **Dynamic spatio-temporal graph network with adaptive propagation mechanism for multivariate time series forecasting**
+
+   
 
    ***ZhuoLin Li***, Jie Yu, GaoWei Zhang, LingYu Xu. (First author)
+
+   
 
    2023|Expert Systems with Applications|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422023922), [code](https://codeocean.com/capsule/4561359/tree/v1) 
 
 3.  **A Multi-Hierarchical attention-based prediction method on Time Series with spatio-temporal context among variables**
 
-   ***ZhuoLin Li***, Jie Yu, XiaoLin Zhang, LingYu Xu, BaoGang Jin. (First author)
+   
 
+   ***ZhuoLin Li***, Jie Yu, XiaoLin Zhang, LingYu Xu, BaoGang Jin. (First author)
+   
+   
+   
    2022|Physica A: Statistical Mechanics and its Applications|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437122004460) 
 
 ### Preprint Papers:

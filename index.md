@@ -10,8 +10,6 @@ Here is **Zhuolin Li (李卓麟)**.
 
 I am now pursuing the PhD at the Department of Computer Science, <u>Shanghai University</u>, working on **deep learning** and **multivariate time series prediction**, etc. Previously, I received the Bachelor's degree from the School of Information Science and Engineering of <u>Shanxi Agricultural University</u>, and a master's degree from the School of Information Engineering of <u>Inner Mongolia University of Science and Technology</u>. I've published papers in top journals and also served as reviewers for several journals, e.g., Expert systems with applications， Advanced Engineering Informatics， Engineering Applications of Artificial Intelligence, etc.
 
-<center>[Email](lzlinsu@shu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=rUSp6igAAAAJ&hl=zh-CN) /[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-5050-654X) <center>
-
 <br>
 
 ## Academic Background
@@ -63,8 +61,3 @@ My current research focuses on Deep learning, graph neural networks, attention m
 
 
 ### Conference Papers:
-
-
-
-
-

@@ -4,22 +4,21 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://ZhuoLinLi-shu.github.io/lizhuolin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Zhuolin Li (李卓麟)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I work as a research assistant in the **IACTIP Lab** (Provincial Key Laboratory), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am now pursuing the PhD at the Department of Computer Science, <u>Shanghai University</u>, working on **deep learning** and **multivariate time series prediction**, etc. Previously, I received the Bachelor's degree from the School of Information Science and Engineering of <u>Shanxi Agricultural University</u>, and a master's degree from the School of Information Engineering of <u>Inner Mongolia University of Science and Technology</u>. I've published papers in top journals and also served as reviewers for several journals, e.g., Expert systems with applications， Advanced Engineering Informatics， Engineering Applications of Artificial Intelligence, etc.
+
+<center>[Email](lzlinsu@shu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=rUSp6igAAAAJ&hl=zh-CN) /[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-5050-654X) <center>
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and graduate in 2025. Looking for PhD position after MSc!
+- **09/2010~06/2014:** I was pursuing the Bachelor degree in Shanxi Agricultural University.
+- **09/2016~06/2019:** I was pursuing the Master degree in Inner Mongolia University of Science and Technology. During this period, I was advised academically by Prof. [XiaoLin Zhang](https://sit.imust.edu.cn/info/1153/4310.htm).
+- **09/2019~Now:** I was pursuing the PhD degree in Shanghai University. During this period, I was advised academically by Prof. Lingyu Xu. 
 
 <br>
 
@@ -27,22 +26,45 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
+- Multivariate time series prediction
+- Spatio-temporal Graph Neural Network
 - Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on Deep learning, graph neural networks, attention mechanisms and their applications (climate, traffic flow and power consumption forecasting, etc.).  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
 ---
 
-## News and Updates
+## Publication
 
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+### Journal Papers:
+
+1. **Dynamic Graph Structure Learning for Multivariate Time Series Forecasting**
+
+   ***Zhuo Lin Li***, Gao Wei Zhang, Jie Yu, Ling Yu Xu. (First author) 
+
+   2023|Pattern Recognition|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323001243), [code](https://github.com/ZhuoLinLi-shu/SDGL) 
+
+2.  **Dynamic spatio-temporal graph network with adaptive propagation mechanism for multivariate time series forecasting**
+
+   ***ZhuoLin Li***, Jie Yu, GaoWei Zhang, LingYu Xu. (First author)
+
+   2023|Expert Systems with Applications|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422023922), [code](https://codeocean.com/capsule/4561359/tree/v1) 
+
+3.  **A Multi-Hierarchical attention-based prediction method on Time Series with spatio-temporal context among variables**
+
+   ***ZhuoLin Li***, Jie Yu, XiaoLin Zhang, LingYu Xu, BaoGang Jin. (First author)
+
+   2022|Physica A: Statistical Mechanics and its Applications|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437122004460) 
+
+### Preprint Papers:
+
+
+
+### Conference Papers:
+
+
+
+
+
